@@ -7,3 +7,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import plotly as px
+
+``````
+pip install streamlit app
+```` 
+streamlit run app.py
